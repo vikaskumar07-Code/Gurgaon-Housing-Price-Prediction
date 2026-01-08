@@ -1,0 +1,11 @@
+# Ignore trained model files
+*.pkl
+
+# Ignore model directory
+model/
+
+# Ignore output files
+output/
+
+# Ignore cache
+__pycache__/
